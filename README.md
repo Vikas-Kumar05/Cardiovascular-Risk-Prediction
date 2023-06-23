@@ -12,12 +12,12 @@ The dataset is from an ongoing cardiovascular study on residents of the town of 
 * As a result, it is critical that we accurately predict the risk of heart disease in order to avert as many fatalities as possible.
 * The goal of this project is to develop a classification model that can predict if a patient is at risk of coronary heart disease (CHD) over the period of 10 years, based on demographic, lifestyle, and medical history.
 
-# In this project we present our analysis of the data. We have employed some of the most widely used classification algorithms for this project namely;
+In this project we present our analysis of the data. We have employed some of the most widely used classification algorithms for this project namely;
 
-Logistic Regression
-Decision Tree
-Random Forest
-XGBoost
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* XGBoost
 
 # EDA
 
